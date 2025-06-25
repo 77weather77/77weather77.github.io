@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postgraduate from .^_^.
-I really want to explore something new & funny
-hope I can record something here and makemyself better!
+I'm a postgraduate from .^_^. <br>
+I really want to explore something new & funny <br>
+hope I can record something here and make it better!
 
 
 A data-driven personal website
